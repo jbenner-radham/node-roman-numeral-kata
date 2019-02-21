@@ -29,4 +29,8 @@ describe('Roman Numeral App', function () {
     it('converts D to 500', function () {
         expect(app('D')).to.equal(500);
     });
+
+    it('converts M to 1000', function () {
+        expect(app('M')).to.equal(1000);
+    });
 });
