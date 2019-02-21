@@ -50,7 +50,9 @@ describe('Roman Numeral App', function () {
         expect(app('VIII')).to.equal(8);
     });
 
-    it('errors on VIIII');
+    it('converts VIIII to NaN', function () {
+        expect(app('VIIII')).to.eql(NaN);
+    });
 
     it('converts IX to 9', function () {
         expect(app('IX')).to.equal(9);
