@@ -21,4 +21,8 @@ describe('Roman Numeral App', function () {
     it('converts L to 50', function () {
         expect(app('L')).to.equal(50);
     });
+
+    it('converts C to 100', function () {
+        expect(app('C')).to.equal(100);
+    });
 });
