@@ -49,4 +49,8 @@ describe('Roman Numeral App', function () {
     it('converts VIII to 8', function () {
         expect(app('VIII')).to.equal(8);
     });
+
+    it('converts IX to 9', function () {
+        expect(app('IX')).to.equal(9);
+    });
 });
