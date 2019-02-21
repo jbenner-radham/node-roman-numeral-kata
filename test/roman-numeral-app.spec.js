@@ -37,4 +37,8 @@ describe('Roman Numeral App', function () {
     it('converts IV to 4', function () {
         expect(app('IV')).to.equal(4);
     });
+
+    it('converts VI to 6', function () {
+        expect(app('VI')).to.equal(6);
+    });
 });
