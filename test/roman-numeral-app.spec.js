@@ -13,4 +13,8 @@ describe('Roman Numeral App', function () {
     it('converts V to 5', function () {
         expect(app('V')).to.equal(5);
     });
+
+    it('converts X to 10', function () {
+        expect(app('X')).to.equal(10);
+    });
 });
