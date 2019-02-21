@@ -57,4 +57,8 @@ describe('Roman Numeral App', function () {
     it('converts IX to 9', function () {
         expect(app('IX')).to.equal(9);
     });
+
+    it('converts MMXIX to 2019', function () {
+        expect(app('MMXIX')).to.equal(2019);
+    });
 });
