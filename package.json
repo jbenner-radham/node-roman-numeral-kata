@@ -1,0 +1,44 @@
+{
+  "name": "roman-numeral-kata",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A coding exercise.",
+  "keywords": [
+    "exercise",
+    "kata",
+    "roman-numerals"
+  ],
+  "homepage": "https://github.com/jbenner-radham/node-roman-numeral-kata#readme",
+  "bugs": {
+    "url": "https://github.com/jbenner-radham/node-roman-numeral-kata/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbenner-radham/node-roman-numeral-kata.git"
+  },
+  "license": "MIT",
+  "author": "James Benner <james.benner@gmail.com> (http://www.jamesbenner.com/)",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "prepublishOnly": "trevor",
+    "pretest": "eslint . --fix",
+    "test": "nyc mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.14.1",
+    "husky": "^1.3.1",
+    "lint-staged": "^8.1.4",
+    "mocha": "^6.0.1",
+    "nyc": "^13.3.0",
+    "sort-package-json": "^1.19.0",
+    "trevor": "^2.4.0"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
