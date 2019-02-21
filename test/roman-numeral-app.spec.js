@@ -33,4 +33,8 @@ describe('Roman Numeral App', function () {
     it('converts M to 1000', function () {
         expect(app('M')).to.equal(1000);
     });
+
+    it('converts IV to 4', function () {
+        expect(app('IV')).to.equal(4);
+    });
 });
