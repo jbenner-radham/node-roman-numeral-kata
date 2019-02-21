@@ -17,4 +17,8 @@ describe('Roman Numeral App', function () {
     it('converts X to 10', function () {
         expect(app('X')).to.equal(10);
     });
+
+    it('converts L to 50', function () {
+        expect(app('L')).to.equal(50);
+    });
 });
