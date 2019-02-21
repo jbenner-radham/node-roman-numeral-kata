@@ -5,4 +5,8 @@ describe('Roman Numeral App', function () {
     it('is a function', function () {
         expect(app).to.be.a('function');
     });
+
+    it('converts I to 1', function () {
+        expect(app('I')).to.equal(1);
+    });
 });
