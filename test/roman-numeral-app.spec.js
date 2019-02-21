@@ -9,4 +9,8 @@ describe('Roman Numeral App', function () {
     it('converts I to 1', function () {
         expect(app('I')).to.equal(1);
     });
+
+    it('converts V to 5', function () {
+        expect(app('V')).to.equal(5);
+    });
 });
