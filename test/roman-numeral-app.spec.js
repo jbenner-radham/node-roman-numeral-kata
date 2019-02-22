@@ -61,4 +61,8 @@ describe('Roman Numeral App', function () {
     it('converts MMXIX to 2019', function () {
         expect(app('MMXIX')).to.equal(2019);
     });
+
+    it('converts VV to to NaN', function () {
+        expect(app('VV')).to.eql(NaN);
+    });
 });
