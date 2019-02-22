@@ -17,6 +17,11 @@ Testing
 $ yarn test # Or alternatively: `npm test`
 ```
 
+See Also
+--------
+- [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals)
+- [Subtractive Notation](https://en.wikipedia.org/wiki/Subtractive_notation)
+
 License
 -------
 The MIT License (Expat). See the [license file](LICENSE) for details.
