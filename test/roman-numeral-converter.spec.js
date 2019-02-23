@@ -6,6 +6,10 @@ describe('Roman Numeral Converter', function () {
         expect(convert).to.be.a('function');
     });
 
+    it('returns a number', function () {
+        expect(convert('I')).to.be.a('number');
+    });
+
     it('converts I to 1', function () {
         expect(convert('I')).to.equal(1);
     });
