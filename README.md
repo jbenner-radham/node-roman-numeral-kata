@@ -22,7 +22,7 @@ In this exercise we will create a converter that will accept a [number][NUMBER] 
 | D      | 500   |
 | M      | 1000  |
 
-This numeral system also employs [subtractive notation][SUBTRACTIVE NOTATION] which is an early form of positional
+This numeral system also employs [subtractive notation][SUBTRACTIVE NOTATION]; which is an early form of positional
 notation used with [Roman numerals][ROMAN NUMERALS] as a shorthand to replace four or five characters in a numeral
 representing a [number][NUMBER] with usually just two characters.
 
@@ -45,7 +45,7 @@ $ yarn test # Or alternatively: `npm test`
 
 See Also
 --------
-- [Arabic numerals][ARABIC NUMERALS]
+- [Arabic Numerals][ARABIC NUMERALS]
 - [Number][NUMBER]
 - [Roman Numerals][ROMAN NUMERALS]
 - [Subtractive Notation][SUBTRACTIVE NOTATION]
