@@ -23,13 +23,13 @@ In this exercise we will create a converter that will accept a [number][NUMBER] 
 | M      | 1000  |
 
 This numeral system also employs [subtractive notation][SUBTRACTIVE NOTATION] which is an early form of positional
-notation used with Roman numerals as a shorthand to replace four or five characters in a numeral representing a number
-with usually just two characters.
+notation used with [Roman numerals][ROMAN NUMERALS] as a shorthand to replace four or five characters in a numeral
+representing a [number][NUMBER] with usually just two characters.
 
 Using [subtractive notation][SUBTRACTIVE NOTATION] the numeral VIIII becomes simply IX. Without
-[subtractive notation][SUBTRACTIVE NOTATION], XIV represents the same number as XVI (16 in
+[subtractive notation][SUBTRACTIVE NOTATION], XIV represents the same [number][NUMBER] as XVI (16 in
 [Arabic numerals][ARABIC NUMERALS]). With the introduction of [subtractive notation][SUBTRACTIVE NOTATION], XIV (14) no
-longer represents the same number as XVI but rather is an alternative way of writing XIIII.
+longer represents the same [number][NUMBER] as XVI but rather is an alternative way of writing XIIII.
 
 Install
 -------
