@@ -7,8 +7,8 @@ node-roman-numeral-kata
 
 Exercise Description
 --------------------
-In this exercise we will create a converter that will accept a number representation in [Roman numerals][ROMAN NUMERALS]
-and convert it [Arabic numerals][ARABIC NUMERALS].
+In this exercise we will create a converter that will accept a [number][NUMBER] representation in
+[Roman numerals][ROMAN NUMERALS] and convert it [Arabic numerals][ARABIC NUMERALS].
 
 [Roman numerals][ROMAN NUMERALS], as used today, employ seven symbols, each with a fixed integer value, as follows:
 
@@ -46,6 +46,7 @@ $ yarn test # Or alternatively: `npm test`
 See Also
 --------
 - [Arabic numerals][ARABIC NUMERALS]
+- [Number][NUMBER]
 - [Roman Numerals][ROMAN NUMERALS]
 - [Subtractive Notation][SUBTRACTIVE NOTATION]
 
@@ -54,5 +55,6 @@ License
 The MIT License (Expat). See the [license file](LICENSE) for details.
 
 [ARABIC NUMERALS]: https://en.wikipedia.org/wiki/Arabic_numerals
+[NUMBER]: https://en.wikipedia.org/wiki/Number
 [ROMAN NUMERALS]: https://en.wikipedia.org/wiki/Roman_numerals
 [SUBTRACTIVE NOTATION]: https://en.wikipedia.org/wiki/Subtractive_notation
