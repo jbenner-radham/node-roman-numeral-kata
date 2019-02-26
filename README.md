@@ -8,7 +8,7 @@ node-roman-numeral-kata
 Exercise Description
 --------------------
 In this exercise we will create a converter that will accept a [number][NUMBER] representation in
-[Roman numerals][ROMAN NUMERALS] and convert it [Arabic numerals][ARABIC NUMERALS].
+[Roman numerals][ROMAN NUMERALS] and convert it to [Arabic numerals][ARABIC NUMERALS].
 
 [Roman numerals][ROMAN NUMERALS], as used today, employ seven symbols, each with a fixed integer value, as follows:
 
