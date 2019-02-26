@@ -4,8 +4,10 @@
   "private": true,
   "description": "A coding exercise.",
   "keywords": [
+    "arabic-numerals",
     "exercise",
     "kata",
+    "numbers",
     "roman-numerals"
   ],
   "homepage": "https://github.com/jbenner-radham/node-roman-numeral-kata#readme",
